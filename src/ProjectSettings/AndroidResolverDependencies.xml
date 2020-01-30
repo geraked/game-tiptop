@@ -1,0 +1,6 @@
+<dependencies>
+  <packages>
+    <package>ir.tapsell.sdk:tapsell-sdk-unity:4.3.0</package>
+  </packages>
+  <files />
+</dependencies>
