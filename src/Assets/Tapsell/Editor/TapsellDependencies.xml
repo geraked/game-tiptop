@@ -1,0 +1,9 @@
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://dl.bintray.com/tapsellorg/maven</repository>
+    </repositories>
+    <androidPackage spec="ir.tapsell.sdk:tapsell-sdk-unity:4.3.0"/>
+  </androidPackages>
+</dependencies>
+
