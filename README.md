@@ -11,6 +11,7 @@ It's a simple 2D game created with Unity Engine for mobile devices such as Andro
 </p>
 
 ## Release
+- View on [APKPure](https://apkpure.com/p/ir.geraked.tiptop).
 - View on [Cafebazaar](https://cafebazaar.ir/app/ir.geraked.tiptop).
 - View on [Myket](https://myket.ir/app/ir.geraked.tiptop).
 
